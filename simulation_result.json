@@ -1,0 +1,301 @@
+{
+  "user": {
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "age": 87,
+    "treatments": [
+      {
+        "medication_name": "ArthroFlex",
+        "start_date": "2023-04-20",
+        "reminder_interval_days": 2,
+        "reminder_times_a_day": 1,
+        "well_being_impact_range": [
+          -1,
+          0,
+          1
+        ],
+        "duration_days": 10
+      },
+      {
+        "medication_name": "FlexiMobility",
+        "start_date": "2023-04-30",
+        "reminder_interval_days": 2,
+        "reminder_times_a_day": 3,
+        "well_being_impact_range": [
+          0,
+          1,
+          2
+        ],
+        "duration_days": 9
+      },
+      {
+        "medication_name": "VitalityBoost",
+        "start_date": "2023-05-09",
+        "reminder_interval_days": 1,
+        "reminder_times_a_day": 3,
+        "well_being_impact_range": [
+          -1,
+          0,
+          1
+        ],
+        "duration_days": 7
+      }
+    ],
+    "well_being": 5,
+    "miss_medication_likelihood": 0.4788312024011776
+  },
+  "days": [
+    {
+      "well_being": 4,
+      "date": "2023-04-20",
+      "daily_treatment_info": [
+        {
+          "medication_name": "ArthroFlex",
+          "due_intakes": 1,
+          "marked_intakes": 0
+        }
+      ]
+    },
+    {
+      "well_being": 4,
+      "date": "2023-04-21",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 4,
+      "date": "2023-04-22",
+      "daily_treatment_info": [
+        {
+          "medication_name": "ArthroFlex",
+          "due_intakes": 1,
+          "marked_intakes": 0
+        }
+      ]
+    },
+    {
+      "well_being": 4,
+      "date": "2023-04-23",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 3,
+      "date": "2023-04-24",
+      "daily_treatment_info": [
+        {
+          "medication_name": "ArthroFlex",
+          "due_intakes": 1,
+          "marked_intakes": 1
+        }
+      ]
+    },
+    {
+      "well_being": 3,
+      "date": "2023-04-25",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 2,
+      "date": "2023-04-26",
+      "daily_treatment_info": [
+        {
+          "medication_name": "ArthroFlex",
+          "due_intakes": 1,
+          "marked_intakes": 1
+        }
+      ]
+    },
+    {
+      "well_being": 2,
+      "date": "2023-04-27",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 2,
+      "date": "2023-04-28",
+      "daily_treatment_info": [
+        {
+          "medication_name": "ArthroFlex",
+          "due_intakes": 1,
+          "marked_intakes": 0
+        }
+      ]
+    },
+    {
+      "well_being": 2,
+      "date": "2023-04-29",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 2,
+      "date": "2023-04-30",
+      "daily_treatment_info": [
+        {
+          "medication_name": "FlexiMobility",
+          "due_intakes": 3,
+          "marked_intakes": 2
+        }
+      ]
+    },
+    {
+      "well_being": 2,
+      "date": "2023-05-01",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 2,
+      "date": "2023-05-02",
+      "daily_treatment_info": [
+        {
+          "medication_name": "FlexiMobility",
+          "due_intakes": 3,
+          "marked_intakes": 0
+        }
+      ]
+    },
+    {
+      "well_being": 2,
+      "date": "2023-05-03",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 4,
+      "date": "2023-05-04",
+      "daily_treatment_info": [
+        {
+          "medication_name": "FlexiMobility",
+          "due_intakes": 3,
+          "marked_intakes": 2
+        }
+      ]
+    },
+    {
+      "well_being": 4,
+      "date": "2023-05-05",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 4,
+      "date": "2023-05-06",
+      "daily_treatment_info": [
+        {
+          "medication_name": "FlexiMobility",
+          "due_intakes": 3,
+          "marked_intakes": 0
+        }
+      ]
+    },
+    {
+      "well_being": 4,
+      "date": "2023-05-07",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 4,
+      "date": "2023-05-08",
+      "daily_treatment_info": [
+        {
+          "medication_name": "FlexiMobility",
+          "due_intakes": 3,
+          "marked_intakes": 2
+        }
+      ]
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-09",
+      "daily_treatment_info": [
+        {
+          "medication_name": "VitalityBoost",
+          "due_intakes": 3,
+          "marked_intakes": 1
+        }
+      ]
+    },
+    {
+      "well_being": 4,
+      "date": "2023-05-10",
+      "daily_treatment_info": [
+        {
+          "medication_name": "VitalityBoost",
+          "due_intakes": 3,
+          "marked_intakes": 2
+        }
+      ]
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-11",
+      "daily_treatment_info": [
+        {
+          "medication_name": "VitalityBoost",
+          "due_intakes": 3,
+          "marked_intakes": 3
+        }
+      ]
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-12",
+      "daily_treatment_info": [
+        {
+          "medication_name": "VitalityBoost",
+          "due_intakes": 3,
+          "marked_intakes": 2
+        }
+      ]
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-13",
+      "daily_treatment_info": [
+        {
+          "medication_name": "VitalityBoost",
+          "due_intakes": 3,
+          "marked_intakes": 1
+        }
+      ]
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-14",
+      "daily_treatment_info": [
+        {
+          "medication_name": "VitalityBoost",
+          "due_intakes": 3,
+          "marked_intakes": 0
+        }
+      ]
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-15",
+      "daily_treatment_info": [
+        {
+          "medication_name": "VitalityBoost",
+          "due_intakes": 3,
+          "marked_intakes": 0
+        }
+      ]
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-16",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-17",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-18",
+      "daily_treatment_info": []
+    },
+    {
+      "well_being": 5,
+      "date": "2023-05-19",
+      "daily_treatment_info": []
+    }
+  ]
+}
